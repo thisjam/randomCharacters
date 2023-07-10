@@ -1,0 +1,17 @@
+G:\project\code\back\winform\randomCharacters\bin\Debug\net6.0-windows\randomCharacters.exe
+G:\project\code\back\winform\randomCharacters\bin\Debug\net6.0-windows\randomCharacters.deps.json
+G:\project\code\back\winform\randomCharacters\bin\Debug\net6.0-windows\randomCharacters.runtimeconfig.json
+G:\project\code\back\winform\randomCharacters\bin\Debug\net6.0-windows\randomCharacters.dll
+G:\project\code\back\winform\randomCharacters\bin\Debug\net6.0-windows\randomCharacters.pdb
+G:\project\code\back\winform\randomCharacters\obj\Debug\net6.0-windows\randomCharacters.csproj.AssemblyReference.cache
+G:\project\code\back\winform\randomCharacters\obj\Debug\net6.0-windows\randomCharacters.Form1.resources
+G:\project\code\back\winform\randomCharacters\obj\Debug\net6.0-windows\randomCharacters.csproj.GenerateResource.cache
+G:\project\code\back\winform\randomCharacters\obj\Debug\net6.0-windows\randomCharacters.GeneratedMSBuildEditorConfig.editorconfig
+G:\project\code\back\winform\randomCharacters\obj\Debug\net6.0-windows\randomCharacters.AssemblyInfoInputs.cache
+G:\project\code\back\winform\randomCharacters\obj\Debug\net6.0-windows\randomCharacters.AssemblyInfo.cs
+G:\project\code\back\winform\randomCharacters\obj\Debug\net6.0-windows\randomCharacters.csproj.CoreCompileInputs.cache
+G:\project\code\back\winform\randomCharacters\obj\Debug\net6.0-windows\randomCharacters.dll
+G:\project\code\back\winform\randomCharacters\obj\Debug\net6.0-windows\refint\randomCharacters.dll
+G:\project\code\back\winform\randomCharacters\obj\Debug\net6.0-windows\randomCharacters.pdb
+G:\project\code\back\winform\randomCharacters\obj\Debug\net6.0-windows\randomCharacters.genruntimeconfig.cache
+G:\project\code\back\winform\randomCharacters\obj\Debug\net6.0-windows\ref\randomCharacters.dll
