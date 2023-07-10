@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MyWenxinTool;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -35,9 +36,10 @@ namespace randomCharacters
         }
 
 
-       
 
 
+        string mp3path = System.IO.Directory.GetCurrentDirectory() + "\\1.mp3";
+      
         private void Form2_Load(object sender, EventArgs e)
         {
             this.FormBorderStyle = FormBorderStyle.None;//顺序不能颠倒 否则会出现多出显示器的分辨率
@@ -79,6 +81,7 @@ namespace randomCharacters
             {
                 return;
             }
+            Musicplay.PlayMusic(mp3path);
             var cpos = getCurrentRealPos(Tools.sucecssCount);
             if (Tools.IsPosInBox(Tools.currentClickPos, cpos, getRightBottomPos(cpos))){
                 Tools.sucecssCount++;

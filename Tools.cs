@@ -38,6 +38,7 @@ namespace randomCharacters
             sucecssCount=0; 
             currentClickPos = new Point(0, 0);
             sortDic = new Dictionary<int, Point>();
+            Tools.sortDic.Clear();
         }
         public static Point getCurrentRealPos(int cindex)
         {

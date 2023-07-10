@@ -7,13 +7,17 @@ using System;
 using System.Runtime.Intrinsics.Arm;
 using System.Media;
 using System.Reflection;
+using MyWenxinTool;
 
 namespace randomCharacters
 {
     public partial class Form1 : Form
     {
+
+  
         public Form1()
         {
+
             InitializeComponent();
             this.MaximizeBox = false; // 禁用最大化按钮
             this.MinimizeBox = true; // 禁用最小化按钮
@@ -21,6 +25,11 @@ namespace randomCharacters
             zh = this.zh.Replace("\n", "").Replace(" ", "").Replace("，", "").Replace("\r", "").Replace("。", "");
             arrZh = zh.ToCharArray();
             arrNum = initNumArr();
+
+          
+
+
+
 
         }
 
@@ -91,6 +100,7 @@ namespace randomCharacters
 
             try
             {
+                Tools.reset();
                 isRunning = true;
                 form2 = Form2.Instance;
                 form2.Show();
